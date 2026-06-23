@@ -92,4 +92,3 @@ Built for scale, designed for impact, engineered for trust.
 
 **Status:** 🚧 Hackathon Project - Active Development  
 **License:** MIT  
-**Hackathon:** VIT AI Hackathon 2026
